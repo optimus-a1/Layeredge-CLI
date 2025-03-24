@@ -34,7 +34,9 @@
 
 1. 下载脚本：  
    ```bash  
-   wget https://github.com/optimus-a1/Layeredge-CLI/blob/main/layeredge-cli.sh  
+
+
+   wget -O layeredge-cli.sh https://raw.githubusercontent.com/optimus-a1/Layeredge-CLI/main/layeredge-cli.sh  
    ```
 
 2. 赋予脚本可执行权限：  
